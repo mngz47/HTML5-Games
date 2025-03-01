@@ -1,0 +1,6 @@
+{
+"title":"Ping Pong",
+ "cover_image":"https://mngz47.github.io/HTML5-Games/pingpoing/cover_image.png",
+  "description":"Two player ping pong. Use the controls (w,s up,down) to hit the ball and prevent it from reaching goal point.",
+  "run":"https://mngz47.github.io/HTML5-Games/pingpoing/"
+}
